@@ -3,7 +3,7 @@ The ObjectivePGP stays under a dual license:
 ====================================================================
 Free for non-commercial use:
 
-Copyright (C) 2014-2021, Marcin Krzyżanowski All rights reserved.
+Copyright (C) 2021 Ramon Brugmans All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -31,4 +31,3 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ====================================================================
 Paid for commercial use:
 
-Commercial-use license to use in commercial products. Please contact me via email (marcin@krzyzanowskim.com) for details.
